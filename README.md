@@ -7,8 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=165F0F&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+cybersecurity;Currently+learning%3A+Python;Currently+learning%3A+Kali+Linux+distribution;Aspiring+to+be+a+Penetration+Tester"></a> 
 </p>
 
-<img src="https://github.com/user-attachments/assets/5dc8ce31-b877-4827-a30f-208fb0ae9ad1" width="1000">
-<br>
+
 
 <h2 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <span style="color: #165f0f;">About me</span></h2>
@@ -21,6 +20,8 @@
 <span style="color: #1e7f14;">➥</span> I'm currently in cybersecurity specialty. <br>
 <br>
 
+<img src="https://github.com/user-attachments/assets/e56f779b-9f3a-4634-b4ae-29afaa62e30d" width="1100">
+<br>
 
 
 
