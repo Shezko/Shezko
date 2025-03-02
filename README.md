@@ -8,16 +8,21 @@
 </p>
 
 
+
+
 <h2 align="left"><picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFrbmJpcXVtNzMwbWswc3gyNjl1dGNzMzdmYWk3NXQyYzZlZGo0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8f3nS1Gajtv70qNicE/giphy.gif" width = 50px></picture>
 <span style="color: #165f0f;">About me</span></h2>
 
 <br>
 
 
+
 <span style="color: #1e7f14;">🟢</span> I'm 17 years old. <br>
 <span style="color: #1e7f14;">🟢</span> I'm currently studying on Cedes Don Bosco highschool in 11th grade. <br>
 <span style="color: #1e7f14;">🟢</span> I'm currently in cybersecurity specialty. <br>
 <br>
+
+<img allign="center" height="242" width="1050" src="https://github.com/user-attachments/assets/7e4e56b6-a5d6-4bab-a480-76723ac32b88">
 
 <h2 align="left"><picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk3bmc5aTB5ZzEzZjgxMjdid3d3Z3dxZXpkNWZvaGNkc2VsY3I4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J5B00esp0BoiCrqdCe/giphy.gif" width = 50px></picture>
 <span style="color: #165f0f;">Achievements</span></h2>
