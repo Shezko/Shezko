@@ -32,7 +32,7 @@
 
 
 
- <img align="right" height="250" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ0aWU0dXhkdW1pcmVrMTQ3eGVxMHF0M21kMTFremlkeHRmbXVtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ai5SLIOTjQG0doYaJD/giphy.gif">
+ <img align="right"  width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ0aWU0dXhkdW1pcmVrMTQ3eGVxMHF0M21kMTFremlkeHRmbXVtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ai5SLIOTjQG0doYaJD/giphy.gif">
 </a>
     <img src="https://github.com/user-attachments/assets/047490f3-90f9-42fc-b93e-4160f55e9692" width = 190px>
     <img src="https://github.com/user-attachments/assets/1b2ece18-f78d-42d8-acdb-f0c0bbb021a8" width = 190px>  <br> <br>
