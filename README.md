@@ -40,9 +40,3 @@
     <img src="https://github.com/user-attachments/assets/0c4b0783-f884-4820-83aa-387ff39d8621" width = 190px> 
      
 </div>
-
-
-
-
-  
-
