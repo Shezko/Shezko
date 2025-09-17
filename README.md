@@ -31,7 +31,7 @@
 
 <div>
     <img src="https://github.com/user-attachments/assets/047490f3-90f9-42fc-b93e-4160f55e9692" width = 190px>
-    <img src="https://github.com/user-attachments/assets/1b2ece18-f78d-42d8-acdb-f0c0bbb021a8" width = 190px>  <br> <br>
+    <img src="https://github.com/user-attachments/assets/1b2ece18-f78d-42d8-acdb-f0c0bbb021a8" width = 190px>
     <img src="https://github.com/user-attachments/assets/2b5e7124-def9-4af2-a906-51ba00c726c5" width = 190px> 
     <img src="https://github.com/user-attachments/assets/0c4b0783-f884-4820-83aa-387ff39d8621" width = 190px> 
 </div>
